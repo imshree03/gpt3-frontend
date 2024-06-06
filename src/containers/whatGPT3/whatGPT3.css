@@ -130,6 +130,13 @@
   }
 }
 
+@media screen and (max-width: 450px) {
+  .gpt3__whatgpt3 {
+    min-width: 275px;
+    margin: 1rem;
+  }
+}
+
 @media screen and (max-width: 350px) {
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;
